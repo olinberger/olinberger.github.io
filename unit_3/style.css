@@ -9,13 +9,26 @@ body {
 	text-align: center;
 	color: black;
 	text-transform: bold; 
+	font-size: 22px;
 }
 
 #splash {
 	text-align: center;
 }
 
+#main {
+	text-align: left;
+	color: black;
+}
+
 h1, p {
 	text-align: center;
-	color: red;
+	color: black;
+}
+
+#contact {
+	text-align: left;
+
+
+
 }
