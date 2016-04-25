@@ -1,14 +1,29 @@
 body {
 	background-color: gray;
-	text-align: center;
-	background: <img src="rundog.jpg">;
-	background-size: cover;
 }
 
 #slogan {
-	
+	text-align: center;
+	color: black;
+	text-transform: bold; 
+	font-size: 22px;
 }
 
-h1, p {
-	color: red;
+#splash {
+	text-align: center;
+}
+
+#main {
+	text-align: left;
+	color: black;
+}
+
+p {
+	text-align: center;
+	color: black;
+}
+
+#contact {
+	text-align: left;
+
 }
