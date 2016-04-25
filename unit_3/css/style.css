@@ -4,7 +4,7 @@ body {
 
 #slogan {
 	text-align: center;
-	color: black;
+	color: red;
 	text-transform: bold; 
 	font-size: 22px;
 }
@@ -15,11 +15,6 @@ body {
 
 #main {
 	text-align: left;
-	color: black;
-}
-
-p {
-	text-align: center;
 	color: black;
 }
 
