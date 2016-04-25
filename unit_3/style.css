@@ -7,7 +7,12 @@ body {
 
 #slogan {
 	text-align: center;
-	color: red;
+	color: black;
+	text-transform: bold; 
+}
+
+#splash {
+	text-align: center;
 }
 
 h1, p {
