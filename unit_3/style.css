@@ -1,13 +1,16 @@
 body {
+	color: black;
 	text-align: center;
-	background: <img src="images/rundog">;
+	background: <img src="images/rundog.jpg">;
 	background-size: cover;
 }
 
 #slogan {
-
+	text-align: center;
+	color: red;
 }
 
 h1, p {
+	text-align: center;
 	color: red;
 }
