@@ -1,5 +1,12 @@
 body {
 	background-color: gray;
+	text-align: center;
+	background: <img src="rundog.jpg">;
+	background-size: cover;
+}
+
+#slogan {
+	
 }
 
 h1, p {
