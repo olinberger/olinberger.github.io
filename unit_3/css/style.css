@@ -10,6 +10,7 @@ body {
 
 #slogan {
 	text-align: center;
+	font-style: italic;
 	color: red;
 	text-transform: bold; 
 	font-size: 22px;
