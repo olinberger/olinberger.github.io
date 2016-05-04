@@ -1,14 +1,32 @@
+@import url(https://fonts.googleapis.com/css?family=Cambay:700italic);
+@import url(https://fonts.googleapis.com/css?family=Alegreya+SC:900);
+
 body {
 	background-color: gray;
 }
 
+h1 {
+	font-family: 'Alegreya SC', serif;
+}
+
+h3 {
+	font-family: 'Alegreya SC', serif;
+}
+
+p {
+	font-family: 'Cambay', sans-serif;
+
+}
+
 #title {
+	font-family: 'Alegreya SC', serif;
 	color: black;
 	text-align: center;
 	font-size: 60px;
 }
 
 #slogan {
+	font-family: 'Cambay', sans-serif;
 	text-align: center;
 	font-style: italic;
 	color: red;
@@ -16,16 +34,3 @@ body {
 	font-size: 22px;
 }
 
-#splash {
-	text-align: center;
-}
-
-#main {
-	text-align: left;
-	color: black;
-}
-
-#contact {
-	text-align: left;
-
-}
