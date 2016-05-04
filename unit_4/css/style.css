@@ -28,9 +28,8 @@ p {
 }
 
 #slogan {
-	font-family: 'Cambay', sans-serif;
 	text-align: center;
-	font-style: italic;
+	font-variant: small-caps;
 	color: red; 
 	font-size: 22px;
 	letter-spacing: 1px;
