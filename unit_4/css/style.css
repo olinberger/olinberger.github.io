@@ -28,9 +28,9 @@ p {
 }
 
 #slogan {
-	font-family: 'Cambay', sans-serif;
 	text-align: center;
 	font-variant: small-caps;
+	font-weight: bold;
 	font-size: 22px;
 	letter-spacing: 1px;
 }
