@@ -28,6 +28,7 @@ p {
 }
 
 #slogan {
+	font-family: 'Alegreya SC', sans-serif;
 	text-align: center;
 	font-variant: small-caps;
 	font-size: 22px;
