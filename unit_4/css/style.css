@@ -7,10 +7,12 @@ body {
 
 h1 {
 	font-family: 'Alegreya SC', serif;
+	letter-spacing: 2px;
 }
 
 h3 {
 	font-family: 'Alegreya SC', serif;
+	letter-spacing: 2px;
 }
 
 p {
@@ -26,7 +28,7 @@ p {
 }
 
 #slogan {
-	font-family: 'Cambay', sans-serif;
+	font-family: 'Alegreya SC', serif;
 	text-align: center;
 	font-style: italic;
 	color: red;
