@@ -1,0 +1,31 @@
+body {
+	background-color: gray;
+}
+
+#title {
+	color: black;
+	text-align: center;
+	font-size: 60px;
+}
+
+#slogan {
+	text-align: center;
+	font-style: italic;
+	color: red;
+	text-transform: bold; 
+	font-size: 22px;
+}
+
+#splash {
+	text-align: center;
+}
+
+#main {
+	text-align: left;
+	color: black;
+}
+
+#contact {
+	text-align: left;
+
+}
