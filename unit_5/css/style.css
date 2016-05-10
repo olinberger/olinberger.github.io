@@ -2,15 +2,11 @@
 @import url(https://fonts.googleapis.com/css?family=Alegreya+SC:900);
 
 body {
-	background-color: gray;
+	background: url("images/rundog.jpg");
+	background-size: cover; 
 }
 
-h1 {
-	font-family: 'Alegreya SC', serif;
-	letter-spacing: 1px;
-}
-
-h3 {
+h1,h3 {
 	font-family: 'Alegreya SC', serif;
 	letter-spacing: 1px;
 }
