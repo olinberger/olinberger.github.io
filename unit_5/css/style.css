@@ -35,6 +35,7 @@ div/section {
 body {
 	background-image: url(http://olinberger.github.io/unit_5/images/rundog.jpg);
 	background-size: cover; 
+	font-size: 16px
 }
 
 h1,h3 {
@@ -51,14 +52,14 @@ p {
 	font-family: 'Alegreya SC', serif;
 	color: black;
 	text-align: center;
-	font-size: 60px;
+	font-size: 4em;
 }
 
 #slogan {
 	text-align: center;
 	font-variant: small-caps;
 	font-weight: bold;
-	font-size: 45px;
+	font-size: 3em;
 	letter-spacing: 1px;
 
 }
