@@ -59,7 +59,7 @@ p {
 	border: 1px black solid;
 	padding: 20px;
 	float: left;
-	width: 22%;
+	width: 21%;
 }
 
 #right {
@@ -67,7 +67,7 @@ p {
 	border: 1px black solid;
 	padding: 20px;
 	float: right;
-	width: 22%;
+	width: 21%;
 }
 
 .clearfix:after {
