@@ -1,0 +1,77 @@
+@import url(https://fonts.googleapis.com/css?family=Cambay:700italic);
+@import url(https://fonts.googleapis.com/css?family=Alegreya+SC:900);
+
+header {
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+nav {
+	background-color: #E8C66A;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+article {
+	background-color: #E89C6C;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+footer {
+	background-color: #FF957E;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+div/section {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+
+body {
+	background-image: url(http://olinberger.github.io/unit_5/images/rundog.jpg);
+	background-size: cover; 
+	font-size: 16px
+}
+
+h1,h3 {
+	font-family: 'Alegreya SC', serif;
+	letter-spacing: 1px;
+}
+
+p {
+	font-family: 'Cambay', sans-serif;
+
+}
+
+#title {
+	font-family: 'Alegreya SC', serif;
+	color: black;
+	text-align: center;
+	font-size: 8em;
+}
+
+#slogan {
+	text-align: center;
+	font-variant: small-caps;
+	font-weight: bold;
+	font-size: 3em;
+	letter-spacing: 1px;
+
+}
+
+#splash {
+	text-align: center;
+}
+
+#main {
+	text-align: center;
+	width: 2em
+}
+
+
+
