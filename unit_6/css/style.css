@@ -62,6 +62,14 @@ p {
 	width: 20%;
 }
 
+#right {
+	background-color: #E55B88;
+	border: 1px black solid;
+	padding: 20px;
+	float: right;
+	width: 20%;
+}
+
 .clearfix:after {
 	visibility: hidden;
 	display: block;
