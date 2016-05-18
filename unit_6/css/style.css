@@ -81,5 +81,12 @@ p {
 	height: 0;
 } 
 
+#slogan {
+	text-align: center;
+	font-variant: small-caps;
+	font-weight: bold;
+	font-size: 3em;
+	letter-spacing: 1px;
+}
 
 
