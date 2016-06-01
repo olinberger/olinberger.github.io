@@ -13,7 +13,8 @@ nav {
 }
 
 article {
-	border: 1px black solid;
+	background-image: url(http://olinberger.github.io/unit_8/images/rundog.jpg);
+	background-size: cover; 
 	padding: 20px;
 }
 
@@ -23,14 +24,11 @@ footer {
 }
 
 div/section {
-	border: 1px black solid;
 	padding: 20px;
 }
 
 
 body {
-	background-image: url(http://olinberger.github.io/unit_8/images/rundog.jpg);
-	background-size: cover; 
 	font-size: 16px
 }
 
@@ -46,21 +44,21 @@ p {
 
 #four_column {
 	border: 1px black solid;
-	padding: 20px;
+	padding: 1.25em;
 	align-content: center;
 }
 
 .left {
 	border: 1px black solid;
-	padding: 20px;
+	padding: 1.25em;
 	float: left;
 	width: 25%;
 }
 
 .right {
-	padding: 20px;
+	padding: 1.25em;
 	float: right;
-	width: 21%;
+	width: 25%;
 }
 
 .clearfix:after {
