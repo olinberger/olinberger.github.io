@@ -49,13 +49,12 @@ p {
 }
 
 .left {
-	border: 1px black solid;
 	padding: 1.25em;
 	float: left;
 	width: 25%;
 }
 
-.right {
+#right {
 	border: 1px black solid;
 	padding: 1.25em;
 	float: right;
