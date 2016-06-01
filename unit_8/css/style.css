@@ -29,11 +29,11 @@ nav {
 article {
 	background-image: url(http://olinberger.github.io/unit_8/images/rundog.jpg);
 	background-position: left;
-	background-size: 100%;
+	background-size: 80%;
 	position: absolute;
 	background-size: cover;
 	position: relative;
-	height: 800px;
+	height: 100%;
 	background-repeat: no-repeat;
 	text-align: center;
 	width: 100%;
