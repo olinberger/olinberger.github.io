@@ -8,11 +8,11 @@ body {
 }
 
 header {
+	width: 960px;
 	background-color: white;
 	height: 1.5em;
 	padding: 1.5em;
 	text-align: center;
-	width: 100%
 }
 
 nav {
