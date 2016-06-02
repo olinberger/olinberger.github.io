@@ -8,7 +8,7 @@ body {
 }
 
 header {
-	width: 960px;
+	width: 90%;
 	background-color: white;
 	height: 1.5em;
 	padding: 1.5em;
@@ -17,7 +17,7 @@ header {
 
 nav {
 	height: 50px;
-	width: 100%;
+	width: 90%;
 	color: #000;
 	font-size: 1em;
 	display: block;
