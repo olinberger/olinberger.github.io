@@ -4,26 +4,23 @@
 body {
 	font-size: 16px
 	width: 100%;
+	padding: 20px;
 }
 
 header {
 	background-color: white;
-	height: 20px;
-	padding: 20px;
+	height: 1.5em;
+	padding: 1.5em;
 	text-align: center;
 	width: 100%
 }
 
 nav {
 	width: 100%;
-	border: 1px black solid;
-	padding-right: 50px;
-	text-decoration: none;
 	color: #000;
 	font-size: 1em;
 	display: block;
-	padding-top: 15px;
-	float: right;
+	padding: 1em;
 }
 
 article {
@@ -37,6 +34,7 @@ article {
 	background-repeat: no-repeat;
 	text-align: center;
 	width: 100%;
+	padding: 1.25em;
 }
 
 footer {
