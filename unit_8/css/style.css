@@ -99,6 +99,13 @@ p {
 }
 
 @media only screen and (max-width: 1340px) {
+  nav {
+    display: block;
+    text-align: center;
+  }
+    nav a {
+    margin: 0 1em 1em;
+  }
 
 .right {
 	float: none;
