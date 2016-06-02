@@ -93,6 +93,7 @@ p {
 	font-variant: small-caps;
 	font-weight: bold;
 	font-size: 3em;
+	text-align: center;
 	letter-spacing: 1px;
 	width: 75%;
 }
