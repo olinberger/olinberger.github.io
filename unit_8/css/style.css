@@ -65,6 +65,7 @@ p {
 #four_column {
 	padding: 1.25em;
 	align-content: center;
+	width: 100%;
 }
 
 .left {
