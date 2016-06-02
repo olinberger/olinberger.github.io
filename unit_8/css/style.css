@@ -103,9 +103,6 @@ p {
     display: block;
     text-align: center;
   }
-    nav a {
-    margin: 0 1em 1em;
-  }
 
 .right {
 	float: none;
@@ -113,7 +110,7 @@ p {
 
 }	
 
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 1125px) {
 
 .left{
 	float: none;
