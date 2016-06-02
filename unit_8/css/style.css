@@ -30,13 +30,13 @@ article {
 	background-size: cover;
 	background-repeat: no-repeat;
 	text-align: center;
-	width: 80%;
+	width: 960px;
 	padding: 1.25em;
 }
 
 footer {
 	padding: 1.25em;
-	width: 100%;
+	width: 960px;
 	text-align: center;
 }
 
