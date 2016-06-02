@@ -17,7 +17,7 @@ header {
 
 nav {
 	height: 50px;
-	width: 960px;
+	width: 100%;
 	color: #000;
 	font-size: 1em;
 	display: block;
