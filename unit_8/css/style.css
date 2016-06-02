@@ -113,14 +113,12 @@ p {
 @media only screen and (max-width: 1125px) {
 
 body {
-	font-size: 8px;
+	font-size: 12px;
 }
 
 .left{
 	float: none;
 	width: 100%;
 }
-
-
 
 }
