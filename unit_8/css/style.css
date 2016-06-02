@@ -68,7 +68,7 @@ p {
 }
 
 .left {
-	padding-top: 10%;
+	padding: 1em;
 	float: left;
 	width: 17%;
 }
