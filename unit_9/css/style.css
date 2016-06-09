@@ -1,37 +1,35 @@
 @import url(https://fonts.googleapis.com/css?family=Cambay:700italic);
 @import url(https://fonts.googleapis.com/css?family=Alegreya+SC:900);
 
+* { margin:0; padding:0; box-sizing:border-box; }
 body {
-	font-size: 16px
-	width: 100%;
-	padding: 10px;
+	font-size: 16px;
+	font-family: 'Cambay', sans-serif;
 }
 
 header {
-	width: 90%;
 	background-color: white;
-	height: 1.5em;
 	padding: 1.5em;
 	text-align: center;
 }
 
 nav {
-	height: 50px;
-	width: 75%;
-	color: #000;
 	font-size: 1em;
 	display: block;
-	padding: 2em 1em 1em;
+	padding: 2em;
+	float: right;
+}
+nav a {
+	padding:1em;
 }
 
-article {
-	background-image: url(http://olinberger.github.io/unit_8/images/rundog.jpg);
+#splash {
+	background-image: url(../images/rundog.jpg);
 	background-position: center;
-	background-size: cover;
 	background-repeat: no-repeat;
 	text-align: center;
-	width: 75%;
-	padding: 1.25em;
+	padding: 10em 4em;
+	background-color: #92DACF;
 }
 
 footer {
@@ -48,29 +46,32 @@ h1{
 	font-size: 2em;
 	font-family: 'Alegreya SC', serif;
 	letter-spacing: 1px;
+	float: left;
 }
 
-h3{
+h2{
 	font-family: 'Alegreya SC', serif;
-	font-size: 1.5em; 
+	font-size: 1.5em;
 	letter-spacing: 1px;
+	text-align: center;
 }
 
 p {
-	font-family: 'Cambay', sans-serif;
-	font-size: 1em;
+	margin-top:1em
 
 }
 
 #four_column {
 	padding: 1.25em;
-	align-content: center;
 }
-
+.wrapper {
+	max-width:75em;
+	margin:auto;
+}
 .left {
-	padding: 2em;
+	padding: 1em;
 	float: left;
-	width: 17%;
+	width: 25%;
 }
 
 .right {
@@ -79,7 +80,10 @@ p {
 	float: right;
 	width: 10%;
 }
-
+.maddog {
+	display:block;
+	margin:auto;
+}
 .clearfix:after {
 	visibility: hidden;
 	display: block;
@@ -93,9 +97,9 @@ p {
 	font-variant: small-caps;
 	font-weight: bold;
 	font-size: 3em;
-	text-align: center;
 	letter-spacing: 1px;
-	width: 75%;
+	margin-top: 0;
+	line-height: 1;
 }
 
 @media only screen and (max-width: 1340px) {
@@ -104,10 +108,9 @@ p {
     text-align: center;
   }
 
-.right {
+  .right {
 	float: none;
-}
-
+  }
 }	
 
 @media only screen and (max-width: 1125px) {

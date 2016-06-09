@@ -15,21 +15,17 @@ header {
 
 nav {
 	font-size: 1em;
-<<<<<<< HEAD
 	display: block;
 	padding: 2em;
-=======
 	float: right;
 }
 nav a {
 	padding:1em;
->>>>>>> origin/master
 }
 
 #splash {
 	background-image: url(../images/rundog.jpg);
 	background-position: center;
-	/* background-size: cover; */
 	background-repeat: no-repeat;
 	text-align: center;
 	padding: 10em 4em;
